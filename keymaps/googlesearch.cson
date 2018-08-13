@@ -8,4 +8,4 @@
 # For more detailed documentation see
 # https://atom.io/docs/latest/behind-atom-keymaps-in-depth
 'atom-workspace':
-  'ctrl-shift-e': 'smsearch:sm-it'
+  'ctrl-shift-h': 'smsearch:sm-it'
