@@ -1,7 +1,7 @@
 {
   "name": "smsearch",
   "main": "./lib/googlesearch",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Search Highlighted word in m.sm.cn",
   "keywords": [],
   "activationCommands": {
@@ -12,5 +12,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {"request": "2.x"}
+  "dependencies": {
+    "request": "2.x"
+  }
 }
