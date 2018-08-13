@@ -12,7 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-    "request": "2.x"
-  }
+  "dependencies": {}
 }
