@@ -1,0 +1,16 @@
+{
+  "name": "smsearch",
+  "main": "./lib/googlesearch",
+  "version": "1.0.0",
+  "description": "Search Highlighted word in sm",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "smsearch:sm-it"
+  },
+  "repository": "https://github.com/shendezhou/googlesearch",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {"request"}
+}
