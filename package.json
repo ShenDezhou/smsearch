@@ -1,7 +1,7 @@
 {
   "name": "smsearch",
   "main": "./lib/googlesearch",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Search Highlighted word in m.sm.cn",
   "keywords": [],
   "activationCommands": {
