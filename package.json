@@ -2,12 +2,12 @@
   "name": "smsearch",
   "main": "./lib/googlesearch",
   "version": "1.0.0",
-  "description": "Search Highlighted word in sm",
+  "description": "Search Highlighted word in m.sm.cn",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "smsearch:sm-it"
   },
-  "repository": "https://github.com/shendezhou/googlesearch",
+  "repository": "https://github.com/shendezhou/smsearch",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
